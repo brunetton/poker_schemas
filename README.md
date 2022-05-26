@@ -1,8 +1,11 @@
 # Poker drawings
 
+Svg schemas made with [Inkscape](https://inkscape.org/)
+
 ## Poker positions
 
-- see `poker positions.svg` and `poker positions - monochrome.svg`
+- color version: [`poker positions.svg`](https://github.com/brunetton/poker_schemas/blob/main/poker%20positions.svg)
+- gray version: [`poker positions - monochrome.svg`](https://github.com/brunetton/poker_schemas/blob/main/poker%20positions%20-%20monochrome.svg)
 
 ## See also
 
